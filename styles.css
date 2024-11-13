@@ -1,5 +1,8 @@
-
+@font-family {
+  font-family: splatoonFont;
+  src: url(Splatoon1.otf);
+}
 
 h1 {
-  font-family: "Brush Script MT", cursive;
+  font-family: splatoonFont, "Brush Script MT", cursive;
 }
