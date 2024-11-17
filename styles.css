@@ -16,3 +16,8 @@ h2 {
   margin-right: auto;
   width: 80%;
 }
+
+#background {
+  position: fixed;
+  width: 100%;
+}
