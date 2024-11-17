@@ -9,3 +9,7 @@ h2 {
   font-family: "Brush Script MT", cursive;
   font-size: 24px;
 }
+
+#picture {
+  width: 80%;
+}
